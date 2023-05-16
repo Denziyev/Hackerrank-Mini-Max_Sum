@@ -1,0 +1,15 @@
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\bin\Debug\net7.0\Hackerrank-Mini-Max_Sum.exe
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\bin\Debug\net7.0\Hackerrank-Mini-Max_Sum.deps.json
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\bin\Debug\net7.0\Hackerrank-Mini-Max_Sum.runtimeconfig.json
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\bin\Debug\net7.0\Hackerrank-Mini-Max_Sum.dll
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\bin\Debug\net7.0\Hackerrank-Mini-Max_Sum.pdb
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\obj\Debug\net7.0\Hackerrank-Mini-Max_Sum.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\obj\Debug\net7.0\Hackerrank-Mini-Max_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\obj\Debug\net7.0\Hackerrank-Mini-Max_Sum.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\obj\Debug\net7.0\Hackerrank-Mini-Max_Sum.AssemblyInfo.cs
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\obj\Debug\net7.0\Hackerrank-Mini-Max_Sum.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\obj\Debug\net7.0\Hackerrank-Mini-Max_Sum.dll
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\obj\Debug\net7.0\refint\Hackerrank-Mini-Max_Sum.dll
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\obj\Debug\net7.0\Hackerrank-Mini-Max_Sum.pdb
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\obj\Debug\net7.0\Hackerrank-Mini-Max_Sum.genruntimeconfig.cache
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Mini-Max_Sum\Hackerrank-Mini-Max_Sum\obj\Debug\net7.0\ref\Hackerrank-Mini-Max_Sum.dll
